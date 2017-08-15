@@ -1,0 +1,40 @@
+{
+	"name": "splice-buffer",
+	"version": "0.0.0",
+	"description": "Remove or replace part of a Buffer like Array#splice",
+	"license": "MIT",
+	"repository": "kevva/splice-buffer",
+	"author": {
+		"name": "Kevin Mårtensson",
+		"email": "kevinmartensson@gmail.com",
+		"url": "github.com/kevva"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"add",
+		"buf",
+		"buffer",
+		"del",
+		"delete",
+		"insert",
+		"modify",
+		"mutate",
+		"remove",
+		"replace",
+		"rm",
+		"splice",
+		"split"
+	],
+	"devDependencies": {
+		"ava": "*",
+		"xo": "*"
+	}
+}
