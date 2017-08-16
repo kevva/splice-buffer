@@ -1,6 +1,6 @@
 {
 	"name": "splice-buffer",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Remove or replace part of a Buffer like Array#splice",
 	"license": "MIT",
 	"repository": "kevva/splice-buffer",
