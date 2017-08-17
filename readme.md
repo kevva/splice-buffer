@@ -47,6 +47,11 @@ Type: `string`
 String to insert in place of the removed `Buffer`.
 
 
+## Related
+
+* [replace-buffer](https://github.com/kevva/replace-buffer) - Replace matches in a `Buffer`
+
+
 ## License
 
 MIT © [Kevin Mårtensson](http://github.com/kevva)
